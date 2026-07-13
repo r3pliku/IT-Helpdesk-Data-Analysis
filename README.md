@@ -1,8 +1,10 @@
 # IT Help Desk Data Analysis
 
 ## Overview
-Cleaned and analyzed a 50,000 row IT Help Desk 
-dataset sourced from Kaggle using Google Sheets.
+
+Cleaned and analyzed a **50,000-row IT Help Desk dataset** sourced from Kaggle using Google Sheets. The project focuses on data cleaning, documentation, Pivot Table analysis, and identifying operational trends through data visualization.
+
+---
 
 ## Project Highlights
 
@@ -24,6 +26,8 @@ Analysis of request vs. issue ticket distribution.
 
 ![Ticket Type Distribution](screenshots/ticket-type-distribution.png)
 
+---
+
 ## Skills Demonstrated
 
 - Microsoft Excel
@@ -37,14 +41,22 @@ Analysis of request vs. issue ticket distribution.
 - Business Reporting
 - Technical Documentation
 
+---
+
 ## Business Problem
 
 Analyze a 50,000-row IT Help Desk dataset to improve data quality, identify operational trends, and communicate findings through data cleaning, Pivot Tables, charts, and business reporting.
 
+---
+
 ## Tools Used
+
 - Google Sheets
 
+---
+
 ## Data Cleaning Steps
+
 - Split encoded columns into Rank and Label
 - Flagged unassigned priority tickets
 - Flagged same day resolved tickets
@@ -52,13 +64,18 @@ Analyze a 50,000-row IT Help Desk dataset to improve data quality, identify oper
 - Documented all changes in a Cleaning Log
 - Completed full sanity check
 
+---
+
 ## Key Findings
+
 - 75% of tickets are Requests vs 25% Issues
 - Systems department generates the most tickets
 - 90% of tickets are Normal severity
 - Regular employees submit the most tickets at 41%
-- Requests take twice as long to resolve as Issues
-  at 7.9 days vs 3.7 days
+- Requests take twice as long to resolve as Issues (7.9 days vs 3.7 days).
+
+--- 
+
 ## Conclusion
 
 This project demonstrates an end-to-end Excel data analysis workflow, including:
@@ -72,7 +89,10 @@ This project demonstrates an end-to-end Excel data analysis workflow, including:
 
 The analysis identified trends in ticket volume, requester seniority, department workload, and ticket resolution performance.
 
+---
+
 ## Files
+
 - IT_Help_Desk_Raw_Data.xlsx — original Kaggle dataset
 - IT_Help_Desk_Cleaned_Data.xlsx — cleaned version
 - IT_Help_Desk_Analysis.xlsx — pivot tables and charts
