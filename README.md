@@ -93,6 +93,6 @@ The analysis identified trends in ticket volume, requester seniority, department
 
 ## Files
 
-- 'IT_Help_Desk_Raw_Data.xlsx — original Kaggle dataset
-- 'IT_Help_Desk_Cleaned_Data.xlsx — cleaned version
-- 'IT_Help_Desk_Analysis.xlsx — pivot tables and charts
+- `IT_Help_Desk_Raw_Data.xlsx` — Original Kaggle dataset
+- `IT_Help_Desk_Cleaned_Data.xlsx` — Cleaned dataset
+- `IT_Help_Desk_Analysis.xlsx` — Pivot Tables, charts, and analysis
